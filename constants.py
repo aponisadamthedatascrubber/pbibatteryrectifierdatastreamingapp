@@ -1,4 +1,4 @@
-TARGET_CREDENTIALS = {'TARGET_HOST':'PBI11268\SQLEXPRESS', 'TARGET_DB': 'powercontestdb'}
+TARGET_CREDENTIALS = {'TARGET_HOST':'PBI11268\SQLEXPRESS', 'TARGET_DB': 'streamingdatabasedev2'}
 
 POWERCON_CREDENTIALS =  {
     'NFB-02':{'IP':'172.31.73.93', 'db':'powercharge', 'user':'powerbi.admin'},
